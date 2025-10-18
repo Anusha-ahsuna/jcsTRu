@@ -86,9 +86,14 @@ body {
 } 
 /* Mobile navbar adjustments */
 @media (max-width: 768px) {
-  .navbar-brand .brand-text { display: none; }
-  .navbar-brand img { height: 35px; margin-right: 0; }
+  .navbar-brand .brand-text { 
+    display: inline; 
+    font-size: 0.75rem; 
+    margin-left: 4px;
+  }
+  .navbar-brand img { height: 32px; margin-right: 4px; }
   .nav-link { padding: 8px 0; margin: 0; }
+  .navbar-brand { font-size: 0.85rem; }
 }
 
 /* Footer */
