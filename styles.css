@@ -196,7 +196,7 @@ footer p {
 /* Hero Section */
 .hero-section {
   min-height: 100vh;
-  background: linear-gradient(rgba(41, 212, 104, 0.196), hsla(143, 95%, 17%, 0.518)), url('./bgImg1.png') center center/cover no-repeat;
+  background: linear-gradient(rgba(41, 212, 104, 0.196), hsla(143, 95%, 17%, 0.518)), url('./comBg.jpdg') center center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
